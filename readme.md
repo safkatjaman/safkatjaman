@@ -6,4 +6,4 @@
 - 📫 How to reach me: 
 - ⚡ Fun fact: I spend almost 4 hours playing Valorant everyday.
 
-<img style='float:right' src='https://github-readme-stats.vercel.app/api?username=safkatjaman&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
+<img style='align-center' src='https://github-readme-stats.vercel.app/api?username=safkatjaman&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
