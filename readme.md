@@ -3,14 +3,12 @@
 
 ## I'm learning Data Science nowadays
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+<a href="#safkatjaman-title">
+  <img src="https://raw.githubusercontent.com/safkatjaman/github-stats-transparent/output/generated/overview.svg" alt="safkatjaman" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **[40°]**
 - :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 ### Connect with me:
