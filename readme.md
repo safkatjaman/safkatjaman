@@ -1,15 +1,17 @@
-### Hi there, this is Safkat Jaman 👋
+### Hi there! I am Safkat Jaman
 
 
-[![Twitter Follow]](https://mobile.twitter.com/safkat_jaman5)
+## I'm learning Data Science nowadays
 
-## I'm a Husband, Father, Developer, and Teacher!!
+<a href="#macropower-title">
+  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
+</a>
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- :office: &nbsp;I'm currently working at **[84.51°]**
+- :seedling: &nbsp;I’m currently learning **Go**
+- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 ### Connect with me:
 
