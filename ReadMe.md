@@ -18,8 +18,5 @@ I am currently working on Data Analytics<br>I am looking to collaborate on Data 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=safkatjaman&icon=2&color=9)](https://visitcount.itsvg.in)
