@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Data Analytics<br>I am looking to collaborate on Data Analysis Projects<br>I am currently learning SQL<br>Ask me about Python Data Science Tools
+I am currently working on Software Engineering<br>I am looking to collaborate on Development Projects<br>I am currently learning .NET
 
 
 ## 🌐 Socials:
