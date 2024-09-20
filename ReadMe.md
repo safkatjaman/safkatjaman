@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Software Engineering<br>I am looking to collaborate on Development Projects<br>I am currently learning .NET
+I am currently working on Software Engineering<br>I am looking to collaborate on Development Projects<br>I am currently learning Python
 
 
 ## 🌐 Socials:
