@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Software Engineering<br>I am looking to collaborate on Development Projects<br>I am currently learning and working on .NET<br>Also working on a project named abashio (আবাসিও)
+I am currently working on Software Engineering<br>I am looking to collaborate on Development Projects<br>I am currently learning and working on .NET
 
 
 ## 🌐 Socials:
